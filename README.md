@@ -1,2 +1,2 @@
-# cgi-demo
-Git Usage Demo Project
+# QueuManager
+Virtual  Queu Management  System
